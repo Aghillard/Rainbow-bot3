@@ -47,4 +47,4 @@ client.on('ready', () => {
 });
 
 
-client.login(config.token);
+client.login(config.token);'MzAxOTA2MTk1MTM1MDcwMjA4.C9D-WA.roclXrOgEcyKtyJvjbf98INalrk'
